@@ -1,2 +1,2 @@
 # AST2000
-Introductory astrophysics - various tasks, projects, and assignments.
+This repository was initally for the project-alternative for the course examination in introductory astrophysics, I ended up taking the standard-alternative of the course however, because the project-alternative is rough to do single-handedly.
